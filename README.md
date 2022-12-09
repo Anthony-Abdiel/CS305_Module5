@@ -2,7 +2,7 @@
 Repository for the Collaboration part of Module 5 for CS305
 
 ## Project: Arduino Robotic Arm
-The purpose of the code in this project is two successfully manage the control of the servos, potentiometers, and radio transmitters in a remote operated robotic arm. 
+The purpose of the code in this project is to successfully manage the control of the servos, potentiometers, and radio transmitters in a remote operated robotic arm. 
 
 ## License
 The work being done here is licensed under the MIT license, meaning:
