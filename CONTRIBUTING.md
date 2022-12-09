@@ -2,4 +2,4 @@
 
 **Contributor 1: ** Anthony Narvaez
 
-**Contributor 2: ** {ADD NAME HERE}
+**Contributor 2: ** Kaden Zaremba
